@@ -4,7 +4,7 @@
 ## I'm a SAP ABAP Consultant 
 - 🔭 I’m currently working on ABAP Development
 - 🌱 I’m currently learning game development
-- 📝  I share what I learned about abap on [my blog].
+- 📝  I share what I learned about SAP ABAP on [my blog].
 
 
 ### Connect with me:
